@@ -14,3 +14,6 @@ Jim: Has the highest number of answered calls but also the lowest resolution rat
 Dan: Has the highest average satisfaction rate. Analyze his techniques and share best practices with other agents.
 
 Stewart: Has the lowest resolution rate. Identify areas for improvement in his problem-solving approach.
+
+![image](https://github.com/user-attachments/assets/04521577-96b9-4134-bdc9-315b013504b9)
+
